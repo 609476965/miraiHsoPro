@@ -1,0 +1,6 @@
+name: "HsoPro"
+author: "WingsanJyu"
+version: "0.1.2"
+main: "com.Wingsanjyu.plugin.HsoPro"
+info: ""
+depends: []
